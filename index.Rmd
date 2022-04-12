@@ -1,5 +1,5 @@
 ---
-title: "Estatística computacional (UFSJ) \n\n Página dos alunos/ex-alunos"
+title: "Alunos da Estatística computacional (UFSJ)"
 image: "estcomp.png"
 links:
   - label: Conheça a nossa disciplina
