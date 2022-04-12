@@ -22,4 +22,4 @@ A ideia dessa página é registrar todos os alunos que passaram pela disciplina,
 
 ### 2022.1
 
-- [Gustavo Duque T. M. Elias | Eng. Civil](https://gustavodtme.github.io/)
+- [Gustavo Duque T. M. Elias | Eng. Civil](https://gustavodtme.github.io/){target="_blank"}
