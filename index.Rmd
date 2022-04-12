@@ -1,0 +1,25 @@
+---
+title: "Estatística computacional (UFSJ) \n\n Página dos alunos/ex-alunos"
+image: "estcomp.png"
+links:
+  - label: Conheça a nossa disciplina
+    url: "https://bendeivide.github.io/courses/estcomp/"
+  - label: UFSJ
+    url: "https://ufsj.edu.br/"
+  - label: UFSJ/CAP
+    url: "https://ufsj.edu.br/cap"
+  - label: Ben Dêivide (Instrutor)
+    url: "https://bendeivide.github.io/"
+output:
+  postcards::solana
+---
+ 
+## Objetivo
+
+A ideia dessa página é registrar todos os alunos que passaram pela disciplina, forma que eles não sejam mais um número, e sim, um formador de conhecimento. Assim, deixaremos os links de suas páginas, para que as suas experiências sejam conhecimento para os novos alunos.
+
+## Alunos
+
+### 2022.1
+
+- [Gustavo Duque T. M. Elias | Eng. Civil](https://gustavodtme.github.io/)
