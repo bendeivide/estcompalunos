@@ -16,7 +16,7 @@ output:
  
 ## Objetivo
 
-A ideia dessa página é registrar todos os alunos que passaram pela disciplina, forma que eles não sejam mais um número, e sim, um formador de conhecimento. Assim, deixaremos os links de suas páginas, para que as suas experiências sejam conhecimento para os novos alunos.
+A ideia dessa página é registrar todos os alunos que passaram pela disciplina, de modo que eles não sejam mais um número, e sim, um formador de conhecimento. Assim, deixaremos os links de suas páginas, para que as suas experiências na disciplina sejam conhecimento para os próximos alunos. Todos somos formadores de conhecimento!
 
 ## Alunos
 
