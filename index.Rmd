@@ -23,3 +23,7 @@ A ideia dessa página é registrar todos os alunos que passaram pela disciplina,
 ### 2022.1
 
 - [Gustavo Duque T. M. Elias | Eng. Civil](https://gustavodtme.github.io/){target="_blank"}
+- [Maria Clara F. Coelho | Eng Civil](https://mcfcoelho1.github.io/){target="_blank"}
+- [Thaiany Mara M. Oliveira | Eng Civil](https://thaianyoliveira.github.io/){target="_blank"}
+- [Marco Antônio C. da Silva | Eng Civil](https://mac8320.github.io/){target="_blank"}
+- [Ana Bárbara A. Mól | Eng Civil](https://anabmol.github.io/discestcomp){target="_blank"}
