@@ -27,3 +27,6 @@ A ideia dessa página é registrar todos os alunos que passaram pela disciplina,
 - [Thaiany Mara M. Oliveira | Eng Civil](https://thaianyoliveira.github.io/){target="_blank"}
 - [Marco Antônio C. da Silva | Eng Civil](https://mac8320.github.io/){target="_blank"}
 - [Ana Bárbara A. Mól | Eng Civil](https://anabmol.github.io/discestcomp){target="_blank"}
+- [Ivo Guilherme Vieira | Eng Civil](https://github.com/ivogv){target="_blank"}
+- [Ana Flávia M. M. Andrade](https://anaf08.github.io/discestcomp/){target="_blank"}
+
